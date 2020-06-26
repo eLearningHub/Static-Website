@@ -13,7 +13,7 @@ There are two types of GitHub pages: profile and project. For a personal or orga
 If you are in a hurry to make a website, you can [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) one the following repositories:
 * [Static-Website-Hugo-Docsy](https://github.com/eLearningHub/Static-Website-Hugo-Docsy) ([website](https://elearninghub.github.io/Static-Website-Hugo-Docsy/))
 
-You may want to change the name of the repository. Make sure to check the GitHub Pages of the settings of your repository. Choose the `gh-pages` branch from the source menu. If everything goes well, you will see the address of your GitHub page. It should be something like: `yourprofilename.github.io/your-repo-name`.
+You may want to change the name of the repository. Make sure to check the GitHub Pages section of the settings of your repository. Choose the `gh-pages` branch from the source menu. If everything goes well, you will see the address of your GitHub page. It should be something like: `yourprofilename.github.io/your-repo-name`.
 
 There is one more thing you need to do. Change the URL in the first line of the `config.toml` file with the address of your GitHub page.
 
