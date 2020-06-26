@@ -9,7 +9,7 @@ You can easily make free websites for yourself or your projects. To learn more a
 There are two types of GitHub pages: profile and project. For a personal or organization GitHub profile, the source of the website is in the master branch of a repository with the name: `yourprofilename.github.io`. For the projects, the source is in the `gh-pages` branch of your project's repository.
 
 If you are in a hurry to make a website, you can clone one the following repositories:
-* [Static-Website-Hugo-Docsy](https://github.com/eLearningHub/Static-Website-Hugo-Docsy)
+* [Static-Website-Hugo-Docsy](https://github.com/eLearningHub/Static-Website-Hugo-Docsy) ([website](https://elearninghub.github.io/Static-Website-Hugo-Docsy/))
 
 You may want to change the name of the repository. Make sure to check the GitHub Pages of the settings of your repository. Choose the `gh-pages` branch from the source menu. If everything goes well, you will see the address of your GitHub page. It should be something like: `yourprofilename.github.io/your-repo-name`.
 
