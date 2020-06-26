@@ -1,6 +1,8 @@
 # Static Websites
 
-You can easily make free websites for yourself or your projects. To learn more about making websites on GitHub, you can check these resources:
+You can easily make free websites for yourself or your projects. There are so many tools for generating and hosting static websites. Take a look at some of the tools on this website: [staticgen.com](https://www.staticgen.com/).
+
+To learn more about making websites on GitHub, you can check these resources:
 * [GitHub pages](https://pages.github.com/)
 * [GitHub pages with Jekyll](https://jekyllrb.com/docs/github-pages/)
 * [GitHub pages with Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
