@@ -8,7 +8,7 @@ To learn more about making websites on GitHub, you can check these resources:
 * [GitHub pages with Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 * [GitHub pages with Gatsby](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/)
 
-There are two types of GitHub pages: profile and project. For a personal or organization GitHub profile, the source of the website is in the master branch of a repository with the name: `yourprofilename.github.io`. For the projects, the source is in the `gh-pages` branch of your project's repository.
+There are two types of GitHub pages: profile and project. For a personal or organization GitHub profile, the source of the website is in the master branch of a repository with the name: `yourprofilename.github.io`. For the projects, the source is, by default, in the `gh-pages` branch of your project's repository.
 
 If you are in a hurry to make a website, you can clone one the following repositories:
 * [Static-Website-Hugo-Docsy](https://github.com/eLearningHub/Static-Website-Hugo-Docsy) ([website](https://elearninghub.github.io/Static-Website-Hugo-Docsy/))
