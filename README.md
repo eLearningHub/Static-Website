@@ -17,6 +17,6 @@ You may want to change the name of the repository. Make sure to check the GitHub
 
 There is one more thing you need to do. Change the URL in the first line of the `config.toml` file with the address of your GitHub page.
 
-The above repositories include [GitHub Actions](https://github.com/features/actions) to build the website and store the results in the `gh-pages` branch. 
+The above repositories include [GitHub Actions](https://github.com/features/actions) to build the website and store the results in the `gh-pages` branch automatically. 
 
 Check if your GitHub page is available. To edit the website, you just need to edit the source files. The GitHub Action updates your website automatically.
